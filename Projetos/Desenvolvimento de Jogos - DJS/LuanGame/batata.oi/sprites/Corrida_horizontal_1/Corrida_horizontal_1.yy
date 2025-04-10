@@ -45,7 +45,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Corrida_horizontal",
+    "%Name":"Corrida_horizontal_1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -69,7 +69,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Corrida_horizontal",
+    "name":"Corrida_horizontal_1",
     "playback":1,
     "playbackSpeed":4.0,
     "playbackSpeedType":0,

@@ -12,3 +12,6 @@ game_over = false; // Inicializa como 'false', ou seja, o jogo não acabou no in
 health = 100;       // Vida inicial
 max_health = 100;   // Vida máxima
 game_over = false; // Inicializa a variável de game over
+
+
+levdano = 0
