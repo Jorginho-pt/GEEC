@@ -12,7 +12,11 @@ Ms. Vinicius Martins
 
 Alunos:
 Daniel Tavares
+
 Luan
+
 Luca
+
 Heitor
+
 Rafael
