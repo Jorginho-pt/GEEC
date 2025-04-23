@@ -1,1 +1,0 @@
-Esta vertente do grupo tem a finalidade de estimular os alunos a estudarem e entenderem sobre a criação de jogos computacionais.

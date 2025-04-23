@@ -1,2 +1,0 @@
-O projeto consiste em fazer melhorias no robô seguidor de linha que é utilizado no primeiro período de engenharia de computação. Para isso, será necessário fazer testes usando um potenciômetro superior a 10𝑘Ω ou colocar algumas resistências em série com o potenciômetro já existente com a finalidade de reduzir a corrente que é drenada para o motor. Deste moto, o carrinho irá andar mais devagar na pista.
-Outro objetivo deste trabalho é construir uma pista que possa ser montada e desmontada para que possa ser de fácil manuseio.
