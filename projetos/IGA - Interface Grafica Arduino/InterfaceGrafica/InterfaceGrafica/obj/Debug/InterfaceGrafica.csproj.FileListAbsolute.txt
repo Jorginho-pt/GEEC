@@ -1,0 +1,10 @@
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\bin\Debug\InterfaceGrafica.exe.config
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\bin\Debug\InterfaceGrafica.exe
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\bin\Debug\InterfaceGrafica.pdb
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.csproj.AssemblyReference.cache
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.Form1.resources
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.Properties.Resources.resources
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.csproj.GenerateResource.cache
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.csproj.CoreCompileInputs.cache
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.exe
+C:\Users\heito\OneDrive\Área de Trabalho\GEEC\InterfaceGrafica\InterfaceGrafica\obj\Debug\InterfaceGrafica.pdb
